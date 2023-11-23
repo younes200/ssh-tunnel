@@ -2,8 +2,8 @@
 
 <div align="left">
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/younes200/ssh-reverse-tunnel/docker-publish.yml?style=for-the-badge)](https://github.com/younes200/ssh-reverse-tunnel/actions/workflows/docker-publish.yml)
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/younes200/ssh-reverse-tunnel?sort=semver&style=for-the-badge)](https://github.com/younes200/ssh-reverse-tunnel/releases)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/younes200/ssh-tunnel/docker-publish.yml?style=for-the-badge)](https://github.com/younes200/ssh-tunnel/actions/workflows/docker-publish.yml)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/younes200/ssh-tunnel?sort=semver&style=for-the-badge)](https://github.com/younes200/ssh-tunnel/releases)
 
 </div>
 
